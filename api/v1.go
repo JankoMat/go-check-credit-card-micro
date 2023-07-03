@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	card "command-line-argumentsC:\\Users\\jmataja\\Documents\\golang_scraper\\pkg\\service.go"
+	"github.com/JankoMat/go-check-credit-card-micro/pkg"
 	"github.com/gin-gonic/gin"
 )
 
